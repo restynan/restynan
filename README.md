@@ -1,5 +1,5 @@
 # 💫 About Me:
-A dynamic fullstack developer with great love for JS
+A dynamic fullstack developer with great love for software development
 
 
 ## 🌐 Socials:
